@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color:red;
+    text-align:center;
+}
+p { color: black;
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.ungu {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:purple;
+    text-align: center;
+}
+#blue{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color:blue;
+    text-align: center;
+}
